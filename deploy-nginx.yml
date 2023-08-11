@@ -15,7 +15,7 @@ spec:
         app: nginx
     spec:
       containers:
-      - name: nginx
-        image: nginx
+      - name: rapa
+        image: brian24/rapa:blue
         ports:
         - containerPort: 80
