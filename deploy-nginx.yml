@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: rapa
-        image: brian24/rapa:green
+        image: brian24/rapa:blue
         ports:
         - containerPort: 80
